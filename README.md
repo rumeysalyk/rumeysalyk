@@ -1,4 +1,4 @@
-<img src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="375"/>
+<img src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="375" class = "center"/>
 - 👋 Hi, I’m Rumeysa
 
 
