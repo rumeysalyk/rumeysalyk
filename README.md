@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysalyk&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysalyk" /> </p>
 
 - 🔭 I’m currently working on **game development**
-  <img align = "right" src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="400" height="300" class = "center"/>
+  <img align = "right" src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="380" height="300" class = "center"/>
 - 🌱 I’m currently learning **Unity, C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**&nbsp;
 
 - 🤝 I’m looking for help with **Qt**
 
 - 👨‍💻 All of my projects are available at [rumeysalayik.github.io](rumeysalayik.github.io)  
 
-- 📝 I regularly write articles on [https://medium.com/@rumeysalayik](https://medium.com/@rumeysalayik)  
+- 📝 I regularly write articles on [https://medium.com/@rumeysalayik](https://medium.com/@rumeysalayik)&nbsp;&nbsp; 
 
 - 💬 Ask me about **Unity, C#**
 
