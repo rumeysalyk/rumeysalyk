@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **game development**
   <img align = "right" src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="400" height="300" class = "center"/>
-- 🌱 I’m currently learning **Unity, C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**
+- 🌱 I’m currently learning **Unity, C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**&nbsp;
 
 - 🤝 I’m looking for help with **Qt**
 
