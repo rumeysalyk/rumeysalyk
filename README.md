@@ -1,14 +1,10 @@
-<div align="center">
-      <img src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="375" class = "center"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Rumeysa</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysalyk&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysalyk" /> </p>
 
 - 🔭 I’m currently working on **game development**
-
+  <img align = "right" src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="400" height="300" class = "center"/>
 - 🌱 I’m currently learning **Unity, C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**
 
 - 🤝 I’m looking for help with **Qt**
