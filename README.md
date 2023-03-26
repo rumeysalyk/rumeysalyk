@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="375" class = "center"/>
+<div align="center">
+      <img src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="375" class = "center"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Rumeysa</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
@@ -7,7 +9,7 @@
 
 - 🔭 I’m currently working on **game development**
 
-- 🌱 I’m currently learning **C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**
+- 🌱 I’m currently learning **Unity, C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**
 
 - 🤝 I’m looking for help with **Qt**
 
