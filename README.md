@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysalyk&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysalyk" /> </p>
 
-- 🔭 I’m currently working on **game development**
+- 🔭 I’m working on **radar development**
   <img align = "right" src="https://github.com/rumeysalyk/rumeysalyk/blob/main/d4tvukbt5mra37cvwklk.gif" width="380" height="300" class = "center"/>
-- 🌱 I’m currently learning **Unity, C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**&nbsp;
+- 🌱 I’m currently learning **C++, Qt, Asynchronous Coding, Multitreading, Network Proxies**&nbsp;
 
 - 🤝 I’m looking for help with **Qt**
 
